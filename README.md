@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amin0710
 - 👀 I’m interested in Coding, Math, Problem sloving, analytical thinking 
-- 🌱 I’m currently learning C++, i know Languages: PHP, Java, Python, Visual Basic, HTML, CSS, JavaScript; Databases: jQuery, MySQL, Microsoft Access, SQL
+- 🌱i know Languages: PHP, Java, Python, HTML, CSS, JavaScript, jQuery, Spring Boot, Rest API, Node.js, Puppeteer.Databases: MySQL2, Microsoft Access, SQL, Excel 
 - 💞️ I’m looking to start my career as a developer.
 - 📫 my Email:nurul.amin.naim@gmail.com
 
